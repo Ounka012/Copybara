@@ -1,10 +1,9 @@
 --[[
 
 Copybara Interface Suite
-by Sirius
+by oun ka
 
-shlex | Designing + Programming
-iRay  | Programming
+
 
 ]]
 
